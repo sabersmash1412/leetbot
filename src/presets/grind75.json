@@ -1,0 +1,326 @@
+{
+  "name": "grind75",
+  "displayName": "Grind 75",
+  "modules": [
+    {
+      "name": "Easy Warmups",
+      "questions": [
+        {
+          "title": "Two Sum",
+          "url": "https://leetcode.com/problems/two-sum/"
+        },
+        {
+          "title": "Valid Parentheses",
+          "url": "https://leetcode.com/problems/valid-parentheses/"
+        },
+        {
+          "title": "Merge Two Sorted Lists",
+          "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+        },
+        {
+          "title": "Best Time to Buy and Sell Stock",
+          "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+        },
+        {
+          "title": "Valid Palindrome",
+          "url": "https://leetcode.com/problems/valid-palindrome/"
+        },
+        {
+          "title": "Invert Binary Tree",
+          "url": "https://leetcode.com/problems/invert-binary-tree/"
+        },
+        {
+          "title": "Valid Anagram",
+          "url": "https://leetcode.com/problems/valid-anagram/"
+        },
+        {
+          "title": "Binary Search",
+          "url": "https://leetcode.com/problems/binary-search/"
+        },
+        {
+          "title": "Flood Fill",
+          "url": "https://leetcode.com/problems/flood-fill/"
+        },
+        {
+          "title": "Lowest Common Ancestor of a Binary Search Tree",
+          "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+        },
+        {
+          "title": "Balanced Binary Tree",
+          "url": "https://leetcode.com/problems/balanced-binary-tree/"
+        },
+        {
+          "title": "Linked List Cycle",
+          "url": "https://leetcode.com/problems/linked-list-cycle/"
+        },
+        {
+          "title": "Implement Queue using Stacks",
+          "url": "https://leetcode.com/problems/implement-queue-using-stacks/"
+        },
+        {
+          "title": "First Bad Version",
+          "url": "https://leetcode.com/problems/first-bad-version/"
+        },
+        {
+          "title": "Ransom Note",
+          "url": "https://leetcode.com/problems/ransom-note/"
+        },
+        {
+          "title": "Climbing Stairs",
+          "url": "https://leetcode.com/problems/climbing-stairs/"
+        },
+        {
+          "title": "Middle of the Linked List",
+          "url": "https://leetcode.com/problems/middle-of-the-linked-list/"
+        },
+        {
+          "title": "Maximum Depth of Binary Tree",
+          "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+        },
+        {
+          "title": "Reverse Linked List",
+          "url": "https://leetcode.com/problems/reverse-linked-list/"
+        }
+      ]
+    },
+    {
+      "name": "Arrays & Strings",
+      "questions": [
+        {
+          "title": "Contains Duplicate",
+          "url": "https://leetcode.com/problems/contains-duplicate/"
+        },
+        {
+          "title": "Maximum Subarray",
+          "url": "https://leetcode.com/problems/maximum-subarray/"
+        },
+        {
+          "title": "Insert Interval",
+          "url": "https://leetcode.com/problems/insert-interval/"
+        },
+        {
+          "title": "01 Matrix",
+          "url": "https://leetcode.com/problems/01-matrix/"
+        },
+        {
+          "title": "K Closest Points to Origin",
+          "url": "https://leetcode.com/problems/k-closest-points-to-origin/"
+        },
+        {
+          "title": "Longest Substring Without Repeating Characters",
+          "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        },
+        {
+          "title": "3Sum",
+          "url": "https://leetcode.com/problems/3sum/"
+        },
+        {
+          "title": "Binary Tree Level Order Traversal",
+          "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+        },
+        {
+          "title": "Clone Graph",
+          "url": "https://leetcode.com/problems/clone-graph/"
+        },
+        {
+          "title": "Course Schedule",
+          "url": "https://leetcode.com/problems/course-schedule/"
+        },
+        {
+          "title": "Implement Trie (Prefix Tree)",
+          "url": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+        },
+        {
+          "title": "Coin Change",
+          "url": "https://leetcode.com/problems/coin-change/"
+        },
+        {
+          "title": "Product of Array Except Self",
+          "url": "https://leetcode.com/problems/product-of-array-except-self/"
+        },
+        {
+          "title": "Min Stack",
+          "url": "https://leetcode.com/problems/min-stack/"
+        },
+        {
+          "title": "Validate Binary Search Tree",
+          "url": "https://leetcode.com/problems/validate-binary-search-tree/"
+        },
+        {
+          "title": "Number of Islands",
+          "url": "https://leetcode.com/problems/number-of-islands/"
+        },
+        {
+          "title": "Rotting Oranges",
+          "url": "https://leetcode.com/problems/rotting-oranges/"
+        },
+        {
+          "title": "Search in Rotated Sorted Array",
+          "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+        },
+        {
+          "title": "Combination Sum",
+          "url": "https://leetcode.com/problems/combination-sum/"
+        },
+        {
+          "title": "Permutations",
+          "url": "https://leetcode.com/problems/permutations/"
+        },
+        {
+          "title": "Merge Intervals",
+          "url": "https://leetcode.com/problems/merge-intervals/"
+        },
+        {
+          "title": "Lowest Common Ancestor of a Binary Tree",
+          "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+        },
+        {
+          "title": "Time Based Key-Value Store",
+          "url": "https://leetcode.com/problems/time-based-key-value-store/"
+        },
+        {
+          "title": "Accounts Merge",
+          "url": "https://leetcode.com/problems/accounts-merge/"
+        },
+        {
+          "title": "Sort Colors",
+          "url": "https://leetcode.com/problems/sort-colors/"
+        },
+        {
+          "title": "Word Break",
+          "url": "https://leetcode.com/problems/word-break/"
+        },
+        {
+          "title": "Partition Equal Subset Sum",
+          "url": "https://leetcode.com/problems/partition-equal-subset-sum/"
+        },
+        {
+          "title": "String to Integer (atoi)",
+          "url": "https://leetcode.com/problems/string-to-integer-atoi/"
+        },
+        {
+          "title": "Spiral Matrix",
+          "url": "https://leetcode.com/problems/spiral-matrix/"
+        },
+        {
+          "title": "Subsets",
+          "url": "https://leetcode.com/problems/subsets/"
+        },
+        {
+          "title": "Binary Tree Right Side View",
+          "url": "https://leetcode.com/problems/binary-tree-right-side-view/"
+        }
+      ]
+    },
+    {
+      "name": "Linked List & Trees",
+      "questions": [
+        {
+          "title": "Longest Palindrome",
+          "url": "https://leetcode.com/problems/longest-palindrome/"
+        },
+        {
+          "title": "Unique Paths",
+          "url": "https://leetcode.com/problems/unique-paths/"
+        },
+        {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+        },
+        {
+          "title": "Container With Most Water",
+          "url": "https://leetcode.com/problems/container-with-most-water/"
+        },
+        {
+          "title": "Letter Combinations of a Phone Number",
+          "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+        },
+        {
+          "title": "Word Search",
+          "url": "https://leetcode.com/problems/word-search/"
+        },
+        {
+          "title": "Find All Anagrams in a String",
+          "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
+        },
+        {
+          "title": "Minimum Height Trees",
+          "url": "https://leetcode.com/problems/minimum-height-trees/"
+        },
+        {
+          "title": "Task Scheduler",
+          "url": "https://leetcode.com/problems/task-scheduler/"
+        },
+        {
+          "title": "LRU Cache",
+          "url": "https://leetcode.com/problems/lru-cache/"
+        },
+        {
+          "title": "Kth Smallest Element in a BST",
+          "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+        },
+        {
+          "title": "Minimum Window Substring",
+          "url": "https://leetcode.com/problems/minimum-window-substring/"
+        },
+        {
+          "title": "Serialize and Deserialize Binary Tree",
+          "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+        },
+        {
+          "title": "Trapping Rain Water",
+          "url": "https://leetcode.com/problems/trapping-rain-water/"
+        },
+        {
+          "title": "Find Median from Data Stream",
+          "url": "https://leetcode.com/problems/find-median-from-data-stream/"
+        },
+        {
+          "title": "Longest Palindromic Substring",
+          "url": "https://leetcode.com/problems/longest-palindromic-substring/"
+        },
+        {
+          "title": "Evaluate Reverse Polish Notation",
+          "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Graphs & DP",
+      "questions": [
+        {
+          "title": "Word Ladder",
+          "url": "https://leetcode.com/problems/word-ladder/"
+        },
+        {
+          "title": "Basic Calculator",
+          "url": "https://leetcode.com/problems/basic-calculator/"
+        },
+        {
+          "title": "Majority Element",
+          "url": "https://leetcode.com/problems/majority-element/"
+        },
+        {
+          "title": "Add Binary",
+          "url": "https://leetcode.com/problems/add-binary/"
+        },
+        {
+          "title": "Diameter of Binary Tree",
+          "url": "https://leetcode.com/problems/diameter-of-binary-tree/"
+        },
+        {
+          "title": "Maximum Profit in Job Scheduling",
+          "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/"
+        },
+        {
+          "title": "Merge k Sorted Lists",
+          "url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+        },
+        {
+          "title": "Largest Rectangle in Histogram",
+          "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+        }
+      ]
+    }
+  ]
+}
